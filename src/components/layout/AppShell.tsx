@@ -27,6 +27,9 @@ export function AppShell({ children }: AppShellProps) {
 
   return (
     <div className="min-h-screen bg-slate-50 flex">
+      {/* Topbar di level DOM tertinggi agar fixed top handal di semua halaman & browser */}
+      <Topbar onMenuClick={() => setIsMobileSidebarOpen(true)} />
+
       {/* Sidebar Desktop (Tetap di kiri) */}
       <div className="hidden lg:block lg:w-[280px] shrink-0 h-screen sticky top-0">
         <AppSidebar />
@@ -61,7 +64,6 @@ export function AppShell({ children }: AppShellProps) {
 
       {/* Main Content Area */}
       <div className="flex-1 flex flex-col min-w-0">
-        <Topbar onMenuClick={() => setIsMobileSidebarOpen(true)} />
         <main className="flex-grow p-4 md:p-8 pt-20 md:pt-24">
           <div className="mx-auto max-w-7xl">
             {children}
