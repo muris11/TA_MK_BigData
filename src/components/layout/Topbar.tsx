@@ -10,7 +10,7 @@ interface TopbarProps {
 
 export function Topbar({ onMenuClick }: TopbarProps) {
   return (
-    <header className="h-16 border-b border-slate-200 bg-white/80 backdrop-blur-md sticky top-0 z-30 flex items-center justify-between px-6">
+    <header className="h-16 border-b border-slate-200 bg-white/80 backdrop-blur-md fixed top-0 right-0 left-0 lg:left-[280px] z-30 flex items-center justify-between px-6">
       {/* Tombol Hamburger di Mobile */}
       <div className="flex items-center gap-3">
         <Button

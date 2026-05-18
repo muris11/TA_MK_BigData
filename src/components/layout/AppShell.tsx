@@ -62,7 +62,7 @@ export function AppShell({ children }: AppShellProps) {
       {/* Main Content Area */}
       <div className="flex-1 flex flex-col min-w-0">
         <Topbar onMenuClick={() => setIsMobileSidebarOpen(true)} />
-        <main className="flex-grow p-4 md:p-8">
+        <main className="flex-grow p-4 md:p-8 pt-20 md:pt-24">
           <div className="mx-auto max-w-7xl">
             {children}
           </div>
