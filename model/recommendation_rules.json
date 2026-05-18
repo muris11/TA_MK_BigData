@@ -1,0 +1,8 @@
+{
+  "Normal": "Harga relatif aman. Monitoring rutin tetap dilakukan.",
+  "Warning": "Harga mulai menunjukkan gejolak. Perlu pemantauan stok, distribusi, dan pasokan.",
+  "Alert": "Harga masuk kondisi rawan. Disarankan intervensi seperti Gerakan Pangan Murah atau Fasilitasi Distribusi Pangan.",
+  "Cluster Stabil": "Wilayah/komoditas relatif stabil dan dapat menjadi pembanding.",
+  "Cluster Waspada": "Wilayah/komoditas perlu pemantauan berkala.",
+  "Cluster Prioritas": "Wilayah/komoditas menjadi prioritas kebijakan stabilisasi harga."
+}

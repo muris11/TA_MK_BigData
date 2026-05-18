@@ -1,0 +1,43 @@
+{
+  "price_features": [
+    "tahun",
+    "bulan_angka",
+    "month_index",
+    "komoditas_encoded",
+    "provinsi_encoded",
+    "jenis_harga_encoded",
+    "level_wilayah_encoded",
+    "harga_sebelumnya",
+    "rata_rata_3_bulan",
+    "volatilitas_3_bulan",
+    "perubahan_harga",
+    "persentase_kenaikan"
+  ],
+  "classification_features": [
+    "tahun",
+    "bulan_angka",
+    "month_index",
+    "komoditas_encoded",
+    "provinsi_encoded",
+    "jenis_harga_encoded",
+    "level_wilayah_encoded",
+    "harga",
+    "harga_sebelumnya",
+    "rata_rata_3_bulan",
+    "volatilitas_3_bulan",
+    "perubahan_harga",
+    "persentase_kenaikan",
+    "indeks"
+  ],
+  "clustering_features": [
+    "rata_rata_harga",
+    "harga_median",
+    "harga_maksimum",
+    "harga_minimum",
+    "standar_deviasi_harga",
+    "rata_rata_kenaikan",
+    "volatilitas_rata_rata"
+  ],
+  "target_regression": "harga",
+  "target_classification": "status_harga"
+}

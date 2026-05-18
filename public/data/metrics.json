@@ -1,0 +1,28 @@
+{
+  "regression": {
+    "best_model": "LinearRegression",
+    "mae": 5.5453727030043044e-12,
+    "mse": 4.3486066488502025e-23,
+    "rmse": 6.594396597756464e-12,
+    "r2_score": 1.0
+  },
+  "classification": {
+    "best_model": "RandomForestClassifier",
+    "accuracy": 0.8527245949926362,
+    "precision": 0.8442543956904719,
+    "recall": 0.8527245949926362,
+    "f1_score": 0.8441293720676485
+  },
+  "clustering": {
+    "model": "KMeans",
+    "n_clusters": 3,
+    "silhouette_score": 0.5867410587484467
+  },
+  "deep_learning": {
+    "model": "MLPRegressor",
+    "mae": 888.6406742606373,
+    "mse": 1251942.791783604,
+    "rmse": 1118.9024943146762,
+    "r2_score": 0.9926156821078921
+  }
+}

@@ -1,0 +1,12 @@
+﻿column,missing_count,missing_percent,dtype
+sumber_dataset,0,0.0,object
+jenis_harga,0,0.0,object
+level_wilayah,0,0.0,object
+tahun,0,0.0,int64
+bulan,0,0.0,int64
+bulan_angka,0,0.0,int64
+komoditas,0,0.0,object
+provinsi,0,0.0,object
+harga,0,0.0,float64
+periode,0,0.0,datetime64[ns]
+month_index,0,0.0,int64

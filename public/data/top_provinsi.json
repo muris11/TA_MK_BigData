@@ -1,0 +1,50 @@
+[
+  {
+    "provinsi": "Kalimantan Timur",
+    "harga_rata_rata": 32400.267783018866,
+    "harga_maksimum": 69321.15,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "harga_rata_rata": 31857.17287735849,
+    "harga_maksimum": 65044.85,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "harga_rata_rata": 31431.874693396225,
+    "harga_maksimum": 64841.12,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Banten",
+    "harga_rata_rata": 31085.305448113206,
+    "harga_maksimum": 65250.84,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "harga_rata_rata": 30391.392617924528,
+    "harga_maksimum": 66232.25,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "harga_rata_rata": 30001.020849056604,
+    "harga_maksimum": 62941.71,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "DKI Jakarta",
+    "harga_rata_rata": 29735.672429245282,
+    "harga_maksimum": 61681.22,
+    "jumlah_data": 424
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "harga_rata_rata": 29245.631108490565,
+    "harga_maksimum": 61109.36,
+    "jumlah_data": 424
+  }
+]

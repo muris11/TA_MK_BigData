@@ -1,0 +1,9 @@
+{
+  "title": "Penerapan Big Data Analytics pada Data Harga Pangan Indonesia",
+  "subtitle": "EDA, Clustering, Regresi, Supervised Learning, dan Deep Learning",
+  "dataset_source": "Badan Pangan Nasional / SiPangan",
+  "created_at": "2026-05-18 13:16:53",
+  "is_demo_data": true,
+  "target_deployment": "Next.js + Vercel Python Function",
+  "description": "Bundle model untuk dashboard analitik dan prediksi harga pangan Indonesia."
+}

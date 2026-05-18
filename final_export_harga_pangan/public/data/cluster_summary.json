@@ -1,0 +1,29 @@
+[
+  {
+    "cluster": 0,
+    "jumlah_data": 24,
+    "rata_rata_harga": 34994.71713836478,
+    "rata_rata_fluktuasi": 2638.9934509399977,
+    "rata_rata_kenaikan": 0.5159095202267258,
+    "skor_risiko": 4,
+    "label_cluster": "Normal"
+  },
+  {
+    "cluster": 1,
+    "jumlah_data": 16,
+    "rata_rata_harga": 46241.3958254717,
+    "rata_rata_fluktuasi": 4892.258439659528,
+    "rata_rata_kenaikan": 0.31407654096240156,
+    "skor_risiko": 6,
+    "label_cluster": "Waspada"
+  },
+  {
+    "cluster": 2,
+    "jumlah_data": 24,
+    "rata_rata_harga": 16227.13158018868,
+    "rata_rata_fluktuasi": 1230.6200643154068,
+    "rata_rata_kenaikan": 0.5035434647582234,
+    "skor_risiko": 2,
+    "label_cluster": "Stabil"
+  }
+]

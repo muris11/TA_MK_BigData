@@ -1,0 +1,41 @@
+{
+  "predict_price": {
+    "tahun": 2026,
+    "bulan_angka": 5,
+    "month_index": 24317,
+    "komoditas_encoded": 7,
+    "provinsi_encoded": 7,
+    "jenis_harga_encoded": 0,
+    "level_wilayah_encoded": 0,
+    "harga_sebelumnya": 34449.43,
+    "rata_rata_3_bulan": 34726.26,
+    "volatilitas_3_bulan": 1170.656610923961,
+    "perubahan_harga": -730.5999999999985,
+    "persentase_kenaikan": -2.1207898069721285
+  },
+  "predict_status": {
+    "tahun": 2026,
+    "bulan_angka": 5,
+    "month_index": 24317,
+    "komoditas_encoded": 7,
+    "provinsi_encoded": 7,
+    "jenis_harga_encoded": 0,
+    "level_wilayah_encoded": 0,
+    "harga": 33718.83,
+    "harga_sebelumnya": 34449.43,
+    "rata_rata_3_bulan": 34726.26,
+    "volatilitas_3_bulan": 1170.656610923961,
+    "perubahan_harga": -730.5999999999985,
+    "persentase_kenaikan": -2.1207898069721285,
+    "indeks": 0.0
+  },
+  "predict_cluster": {
+    "rata_rata_harga": 31702.474528301886,
+    "harga_median": 31938.55,
+    "harga_maksimum": 36010.52,
+    "harga_minimum": 27195.18,
+    "standar_deviasi_harga": 2154.2952355804205,
+    "rata_rata_kenaikan": 0.36322500254296786,
+    "volatilitas_rata_rata": 1309.0082818871513
+  }
+}

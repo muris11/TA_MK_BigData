@@ -1,0 +1,320 @@
+[
+  {
+    "tahun": 2022,
+    "bulan_angka": 1,
+    "harga_rata_rata": 30885.17515625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 2,
+    "harga_rata_rata": 31041.849687500002,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 3,
+    "harga_rata_rata": 29738.71953125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 4,
+    "harga_rata_rata": 29251.56234375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 5,
+    "harga_rata_rata": 29239.2975,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 6,
+    "harga_rata_rata": 28790.76765625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 7,
+    "harga_rata_rata": 27809.0146875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 8,
+    "harga_rata_rata": 27621.1665625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 9,
+    "harga_rata_rata": 27227.96125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 10,
+    "harga_rata_rata": 27308.529531250002,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 11,
+    "harga_rata_rata": 27948.69171875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2022,
+    "bulan_angka": 12,
+    "harga_rata_rata": 30033.948125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 1,
+    "harga_rata_rata": 31780.59515625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 2,
+    "harga_rata_rata": 31885.131093750002,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 3,
+    "harga_rata_rata": 30824.82453125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 4,
+    "harga_rata_rata": 30462.031875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 5,
+    "harga_rata_rata": 30105.736718750002,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 6,
+    "harga_rata_rata": 29686.693125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 7,
+    "harga_rata_rata": 28733.97453125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 8,
+    "harga_rata_rata": 28781.0046875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 9,
+    "harga_rata_rata": 28075.7384375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 10,
+    "harga_rata_rata": 28493.17875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 11,
+    "harga_rata_rata": 29087.41171875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2023,
+    "bulan_angka": 12,
+    "harga_rata_rata": 31001.2371875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 1,
+    "harga_rata_rata": 32267.74296875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 2,
+    "harga_rata_rata": 33347.238125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 3,
+    "harga_rata_rata": 31348.09578125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 4,
+    "harga_rata_rata": 31424.6321875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 5,
+    "harga_rata_rata": 30895.7015625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 6,
+    "harga_rata_rata": 30217.2284375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 7,
+    "harga_rata_rata": 29486.720625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 8,
+    "harga_rata_rata": 29525.48359375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 9,
+    "harga_rata_rata": 29213.08640625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 10,
+    "harga_rata_rata": 29780.46796875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 11,
+    "harga_rata_rata": 29900.26015625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2024,
+    "bulan_angka": 12,
+    "harga_rata_rata": 32031.93203125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 1,
+    "harga_rata_rata": 34307.11359375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 2,
+    "harga_rata_rata": 33980.64109375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 3,
+    "harga_rata_rata": 32621.71828125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 4,
+    "harga_rata_rata": 32911.32953125,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 5,
+    "harga_rata_rata": 32407.01421875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 6,
+    "harga_rata_rata": 31462.1740625,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 7,
+    "harga_rata_rata": 30812.4996875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 8,
+    "harga_rata_rata": 30539.10859375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 9,
+    "harga_rata_rata": 30326.0096875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 10,
+    "harga_rata_rata": 30542.2384375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 11,
+    "harga_rata_rata": 31126.4959375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2025,
+    "bulan_angka": 12,
+    "harga_rata_rata": 33434.0525,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2026,
+    "bulan_angka": 1,
+    "harga_rata_rata": 35135.55671875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2026,
+    "bulan_angka": 2,
+    "harga_rata_rata": 35599.8575,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2026,
+    "bulan_angka": 3,
+    "harga_rata_rata": 34018.44375,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2026,
+    "bulan_angka": 4,
+    "harga_rata_rata": 33685.4571875,
+    "jumlah_data": 64
+  },
+  {
+    "tahun": 2026,
+    "bulan_angka": 5,
+    "harga_rata_rata": 32570.19578125,
+    "jumlah_data": 64
+  }
+]

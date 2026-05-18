@@ -1,0 +1,11 @@
+﻿dataset_key,filename,path,status,rows,columns
+harga_konsumen_nasional,01_harga_konsumen_nasional.csv,/content/data_raw/01_harga_konsumen_nasional.csv,missing,0,0
+harga_konsumen_provinsi,02_harga_konsumen_provinsi.csv,/content/data_raw/02_harga_konsumen_provinsi.csv,missing,0,0
+harga_produsen_nasional,03_harga_produsen_nasional.csv,/content/data_raw/03_harga_produsen_nasional.csv,missing,0,0
+harga_produsen_provinsi,04_harga_produsen_provinsi.csv,/content/data_raw/04_harga_produsen_provinsi.csv,missing,0,0
+indikator_anomali_2025,05_indikator_anomali_2025.csv,/content/data_raw/05_indikator_anomali_2025.csv,missing,0,0
+indikator_anomali_2026_maret,06_indikator_anomali_2026_maret.csv,/content/data_raw/06_indikator_anomali_2026_maret.csv,missing,0,0
+fasilitasi_distribusi_pangan_2026,07_fasilitasi_distribusi_pangan_2026.csv,/content/data_raw/07_fasilitasi_distribusi_pangan_2026.csv,missing,0,0
+gerakan_pangan_murah_2026,08_gerakan_pangan_murah_2026.csv,/content/data_raw/08_gerakan_pangan_murah_2026.csv,missing,0,0
+konsumsi_pangan_provinsi,09_konsumsi_pangan_provinsi.csv,/content/data_raw/09_konsumsi_pangan_provinsi.csv,missing,0,0
+skor_pola_pangan_harapan,10_skor_pola_pangan_harapan.csv,/content/data_raw/10_skor_pola_pangan_harapan.csv,missing,0,0

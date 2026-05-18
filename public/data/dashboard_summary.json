@@ -1,0 +1,12 @@
+{
+  "project_title": "Penerapan Big Data Analytics pada Data Harga Pangan Indonesia",
+  "is_demo_data": true,
+  "total_data": 3392,
+  "total_komoditas": 8,
+  "total_provinsi": 8,
+  "tahun_awal": 2022,
+  "tahun_akhir": 2026,
+  "harga_rata_rata": 30768.54222582547,
+  "harga_minimum": 11192.59,
+  "harga_maksimum": 69321.15
+}

@@ -1,0 +1,5 @@
+﻿category,best_model,mae,mse,rmse,r2_score,accuracy,precision,recall,f1_score,model,n_clusters,silhouette_score
+regression,LinearRegression,5.5453727030043044e-12,4.3486066488502025e-23,6.594396597756464e-12,1.0,,,,,,,
+classification,RandomForestClassifier,,,,,0.8527245949926362,0.8442543956904719,0.8527245949926362,0.8441293720676485,,,
+clustering,,,,,,,,,,KMeans,3.0,0.5867410587484467
+deep_learning,,888.6406742606373,1251942.791783604,1118.9024943146762,0.9926156821078921,,,,,MLPRegressor,,

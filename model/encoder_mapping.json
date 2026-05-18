@@ -1,0 +1,54 @@
+{
+  "komoditas": {
+    "Bawang Merah": 0,
+    "Beras Medium": 1,
+    "Beras Premium": 2,
+    "Cabai Merah Keriting": 3,
+    "Cabai Rawit Merah": 4,
+    "Daging Ayam Ras": 5,
+    "Minyak Goreng": 6,
+    "Telur Ayam Ras": 7
+  },
+  "komoditas_inverse": {
+    "0": "Bawang Merah",
+    "1": "Beras Medium",
+    "2": "Beras Premium",
+    "3": "Cabai Merah Keriting",
+    "4": "Cabai Rawit Merah",
+    "5": "Daging Ayam Ras",
+    "6": "Minyak Goreng",
+    "7": "Telur Ayam Ras"
+  },
+  "provinsi": {
+    "Banten": 0,
+    "DKI Jakarta": 1,
+    "Jawa Barat": 2,
+    "Jawa Tengah": 3,
+    "Jawa Timur": 4,
+    "Kalimantan Timur": 5,
+    "Sulawesi Selatan": 6,
+    "Sumatera Utara": 7
+  },
+  "provinsi_inverse": {
+    "0": "Banten",
+    "1": "DKI Jakarta",
+    "2": "Jawa Barat",
+    "3": "Jawa Tengah",
+    "4": "Jawa Timur",
+    "5": "Kalimantan Timur",
+    "6": "Sulawesi Selatan",
+    "7": "Sumatera Utara"
+  },
+  "jenis_harga": {
+    "konsumen": 0
+  },
+  "jenis_harga_inverse": {
+    "0": "konsumen"
+  },
+  "level_wilayah": {
+    "provinsi": 0
+  },
+  "level_wilayah_inverse": {
+    "0": "provinsi"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "komoditas": "Cabai Rawit Merah",
+    "harga_rata_rata": 50137.348655660375,
+    "harga_maksimum": 69321.15,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Cabai Merah Keriting",
+    "harga_rata_rata": 42345.44299528302,
+    "harga_maksimum": 57528.15,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Daging Ayam Ras",
+    "harga_rata_rata": 39607.915731132074,
+    "harga_maksimum": 49182.23,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Bawang Merah",
+    "harga_rata_rata": 34298.37754716981,
+    "harga_maksimum": 43071.12,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Telur Ayam Ras",
+    "harga_rata_rata": 31077.858136792453,
+    "harga_maksimum": 38346.13,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Minyak Goreng",
+    "harga_rata_rata": 18195.956603773586,
+    "harga_maksimum": 23086.4,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Beras Premium",
+    "harga_rata_rata": 16582.578938679246,
+    "harga_maksimum": 21080.91,
+    "jumlah_data": 424
+  },
+  {
+    "komoditas": "Beras Medium",
+    "harga_rata_rata": 13902.859198113207,
+    "harga_maksimum": 18232.28,
+    "jumlah_data": 424
+  }
+]
