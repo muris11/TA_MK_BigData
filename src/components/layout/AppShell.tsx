@@ -35,7 +35,7 @@ export function AppShell({ children }: AppShellProps) {
       {/* Mobile Drawer Sidebar Overlay */}
       <div
         className={cn(
-          "fixed inset-0 bg-slate-900/40 z-40 transition-opacity duration-300 lg:hidden",
+          "fixed inset-0 bg-slate-900/40 z-50 transition-opacity duration-300 lg:hidden",
           isMobileSidebarOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
         )}
         onClick={() => setIsMobileSidebarOpen(false)}
@@ -43,7 +43,7 @@ export function AppShell({ children }: AppShellProps) {
         {/* Sidebar Container */}
         <div
           className={cn(
-            "fixed inset-y-0 left-0 w-[280px] bg-white transition-transform duration-300 transform z-50 flex flex-col",
+            "fixed inset-y-0 left-0 w-[280px] bg-white transition-transform duration-300 transform z-60 flex flex-col",
             isMobileSidebarOpen ? "translate-x-0" : "-translate-x-full"
           )}
           onClick={(e) => e.stopPropagation()}

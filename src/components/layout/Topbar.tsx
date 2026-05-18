@@ -10,9 +10,9 @@ interface TopbarProps {
 
 export function Topbar({ onMenuClick }: TopbarProps) {
   return (
-    <header className="h-16 border-b border-slate-200 bg-white/80 backdrop-blur-md fixed top-0 right-0 left-0 lg:left-[280px] z-30 flex items-center justify-between px-6">
+    <header className="h-16 border-b border-slate-200 bg-white/95 backdrop-blur-md fixed top-0 right-0 left-0 lg:left-[280px] z-50 shadow-xs flex items-center justify-between px-4 sm:px-6">
       {/* Tombol Hamburger di Mobile */}
-      <div className="flex items-center gap-3">
+      <div className="flex items-center gap-2 sm:gap-3 min-w-0">
         <Button
           variant="ghost"
           size="sm"
@@ -22,19 +22,20 @@ export function Topbar({ onMenuClick }: TopbarProps) {
           <Menu className="h-5 w-5" />
         </Button>
 
-        {/* Title Ringkas */}
-        <div className="hidden sm:flex flex-col">
-          <h2 className="text-sm font-bold text-slate-800 leading-none">
-            FoodPrice Insight Indonesia
+        {/* Title Ringkas Responsif */}
+        <div className="flex flex-col min-w-0">
+          <h2 className="text-xs sm:text-sm font-bold text-slate-800 leading-none truncate">
+            <span className="inline sm:hidden">FoodPrice ID</span>
+            <span className="hidden sm:inline">FoodPrice Insight Indonesia</span>
           </h2>
-          <span className="text-[10px] text-slate-500 font-semibold mt-1">
+          <span className="text-[9px] sm:text-[10px] text-slate-500 font-semibold mt-1 truncate hidden xs:inline-block">
             Analisis Data Terpadu & Prediksi Harga Pangan Nasional
           </span>
         </div>
       </div>
 
       {/* Aksi Kanan */}
-      <div className="flex items-center gap-2">
+      <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
         <Button
           variant="ghost"
           size="sm"
@@ -44,12 +45,12 @@ export function Topbar({ onMenuClick }: TopbarProps) {
           <Info className="h-4 w-4" />
         </Button>
         <span className="h-4 w-px bg-slate-200" />
-        <div className="flex items-center gap-2 pl-1">
-          <div className="h-7 w-7 rounded-full bg-emerald-600 text-white text-[11px] font-extrabold flex items-center justify-center">
+        <div className="flex items-center gap-1.5 sm:gap-2 pl-0.5">
+          <div className="h-7 w-7 rounded-full bg-emerald-600 text-white text-[11px] font-extrabold flex items-center justify-center shrink-0">
             TA
           </div>
-          <span className="text-xs font-bold text-slate-700 hidden md:inline-block">
-            Presenter Mahasiswa
+          <span className="text-xs font-bold text-slate-700 hidden sm:inline-block">
+            Presenter
           </span>
         </div>
       </div>
